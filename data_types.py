@@ -27,3 +27,4 @@ print(salah)
 print(nilai)
 print(buah)
 print(namaIT)
+
