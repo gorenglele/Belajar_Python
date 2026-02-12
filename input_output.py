@@ -14,3 +14,4 @@ print(list_tag)
 
 test = "saya suka belajar python"
 list_kata = test.split(" ") 
+
