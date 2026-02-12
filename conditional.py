@@ -17,3 +17,4 @@ elif nilai >= 40:
     print("Nilai Anda D")
 else:
     print("Nilai Anda E")
+    
